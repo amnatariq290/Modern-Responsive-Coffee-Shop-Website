@@ -54,4 +54,4 @@ git clone https://github.com/amnatariq290/Modern-Responsive-Coffee-Shop-Website.
 
 ---
 
-*This project is part of my Full Stack Developer portfolio.*
+
