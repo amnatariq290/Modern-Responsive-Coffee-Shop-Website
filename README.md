@@ -12,9 +12,7 @@ This is a fully responsive and modern coffee shop website built using **HTML**, 
 - 🎨 Clean Typography and Color Scheme
 - 🌐 Ready for backend integration (e.g., Node.js, Express, MongoDB)
 
-## 🚀 Live Preview
 
-You can host the project using platforms like [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/).
 
 ## 📁 Folder Structure
 
