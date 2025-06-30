@@ -12,7 +12,7 @@ This is a fully responsive and modern coffee shop website built using **HTML**, 
 - 🎨 Clean Typography and Color Scheme
 - 🌐 Ready for backend integration (e.g., Node.js, Express, MongoDB)
 
-
+LIVE DEMO: https://peaceful-malabi-ece323.netlify.app/
 
 ## 📁 Folder Structure
 
